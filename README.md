@@ -21,7 +21,7 @@ npm start
 
 ### Recursos Usados
 
-Lista de recursos usados em aula para este projeto
+Lista de recursos usados neste projeto
 
 | Recurso | Link |
 | ------ | ------ |
